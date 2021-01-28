@@ -12,3 +12,4 @@ Hemsidan kommer att vara för en italiensk restaurang, målgruppen är de som ä
 
 Detta kan egentligen vara alla åldrar, det finns inte en specifik folkgrupp. Deras mål att besöka sajten kan vara att boka ett bord, eller kolla på menyn, beställa hemkörning eller catering. Restaurangen själv kommer att vara en finare restaurang.
 
+Min GET och POST request kommer att vara en form, som man kan skicka mejl med om man har några frågor.
