@@ -1,4 +1,4 @@
-Ide: Hemsida för en restaurang. Restaurangen kommer att servera italiensk mat.
+Ide: Hemsida för en itailens restaurang. 
 
 Planering:
 
