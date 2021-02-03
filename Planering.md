@@ -34,7 +34,7 @@ Tis:
 Fortsätta med att bygga hemsidan och börja på server delen. Kolla igenom planeringen och utveckla om det behövs.
 
 Ons:
-Fortsätta med att bygga hemsidan och server delen. Kolla igenom planeringen och utveckla om det behövs.
+Fortsätta med att bygga hemsidan och server delen. Kolla igenom planeringen och utveckla om det behövs. Skapa en logga till restaurangen.
 
 Tor:
 Fortsätta med att bygga hemsidan och server delen. Kolla igenom planeringen och utveckla om det behövs.
