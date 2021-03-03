@@ -8,7 +8,7 @@ Det andra lagret:
 
 Vad bryr sig användaren om?
 
-Anvädaren bryr sig om sia registrerade uppgifter säkra?
+Anvädaren bryr sig om sina registrerade uppgifter säkra?
 
 Scenarier:
 

@@ -1,0 +1,39 @@
+#main {
+    border: 7px solid darkred;
+}
+
+#menu ul {
+    margin-left: 120px;
+    padding: 20px;
+    list-style-type: none;
+}
+
+#menu ul li {
+    float: left;
+    position: relative;
+}
+
+#menu ul li a {
+    display: block;
+    height: 65px;
+    width: 200px;
+    line-height: 50px;
+    color: rgb(49, 46, 46);
+    text-decoration: none;
+    text-align: center;
+    font-size: 150%;
+    transition: background-color .7s, font-size .2s;
+}
+
+#menu ul li a:hover {
+    color: rgb(223, 212, 212);
+    background-color: darkred;
+    font-size: 130%;
+}
+
+
+#menu ul li:hover ul li a {
+    visibility: visible;
+    height: 50px;
+    transition: all .5s ease-out;
+}
