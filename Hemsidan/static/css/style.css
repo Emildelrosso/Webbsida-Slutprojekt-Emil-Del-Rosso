@@ -37,3 +37,7 @@
     height: 50px;
     transition: all .5s ease-out;
 }
+
+form {
+    padding-top: 20px;
+}

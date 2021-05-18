@@ -12,13 +12,6 @@
 <body>
 
     <div id=main>
-        <form action="/Catering" method="post">
-            <label for="fname">Name:</label>
-            <input type="text" name="fname">
-            <label for="message">Message:</label>
-            <input type="message" name="message">
-            <button type="submit">Send info to server</button>
-        </form>
 
         <div class="container">
 
@@ -27,9 +20,9 @@
                     aria-controls="navbarsExample10" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-
+    
                 <div id="menu">
-
+    
                     <div class="collapse navbar-collapse justify-content-md-center" id="navbarsExample10">
                         <ul class="navbar-nav">
                             <li class="nav-item">
@@ -58,16 +51,26 @@
     
                         <h1>Välkommen till Il Ristorante</h1>
                         <p>Vi serverar classisk Italienska maträtter.</p>
-
+    
                     
                     </div>
                     <img src="../images/matsal.jpg" alt="">
+    
+                    
+                        <form action="/Meny" method="post">
+                            <label for="fname">Name:</label>
+                            <input type="text" name="fname">
+                            <label for="message">Message:</label>
+                            <input type="message" name="message">
+                            <button type="submit">Send info to server</button>
+                        </form>
+    
                 </div>
             </main>
     
         </div>
-
-    </div>  
+        
+    </div>
 
 </body>
 
